@@ -1,0 +1,34 @@
+# Things I found cool and/or helpful
+
+...maybe you will too 🎉
+
+---
+
+### Articles 📰
+- [McDonald's Theory](https://medium.com/@jonbell/mcdonalds-theory-9216e1c9da7d)
+- [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+- [JS Visualized](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+- [Design Better Forms](https://medium.com/nextux/design-better-forms-96fadca0f49c)
+
+### Repos 💻
+- [Curated Dev List](https://github.com/sindresorhus/awesome)
+- [CUrated PM List](https://github.com/ProductHired/open-product-management)
+- [JS Questions](https://github.com/lydiahallie/javascript-questions)
+
+### Videos 📹🎮
+- [Hardest 1-1 Remake Ever](https://www.youtube.com/watch?v=LcsGZqiwB1k) <small>*shoutout to lilkirbs*</small>
+- [BA Gourmet Bakes](https://www.youtube.com/playlist?list=PLKtIunYVkv_RwB_yx1SZrZC-ddhxyXanh)
+- [Binging with Babish](https://www.youtube.com/user/bgfilms)
+- [Matthew Chaim - Sunflowers (Animated Lyric Video)](https://www.youtube.com/watch?v=5e-Awb0DhUk)
+- [I rotoscoped the entire Chika dance](https://www.youtube.com/watch?v=gVtuD_6xSrM)
+- [Fairy Tail - Main Theme (Launchpad Cover)](https://www.youtube.com/watch?v=zsOrvNYEgA8)
+
+### Cats 🐱
+- [he](https://www.youtube.com/watch?v=X8avbciUP3c)
+- [Suri & Noel](https://www.youtube.com/user/JungwooPark79)
+- [Flatbush Cats](https://www.youtube.com/user/ButterTeam)
+
+### Art 🎨
+- [Cutey](https://sohyun.kim)
+- [Siiteiebahiro](http://www.pixiv.net/member.php?id=1709153)
+- [Redjuice](https://www.artstation.com/redjuice)

@@ -1,0 +1,6 @@
+- [About](about)
+- [Dev](dev)
+- [Cool](cool)
+- **Links**
+- [![github-icon](https://icongr.am/simple/github.svg?color=ffffff&size=16) Github](https://github.com/nwgreenl/nwgreenl.github.io)
+- [![fav-icon](https://icongr.am/clarity/favorite.svg?color=ffffff&size=16) Docsify](https://docsify.js.org)
