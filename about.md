@@ -24,7 +24,7 @@ nick.status = 'probably RESTing'
 
 #### **Personal**
 
-- 한국어를 배워고있서요.
+- 한국어를 배워고있어요.
 - Hiking and long walks around the park with [cutey](https://sohyun.kim).
 - Discovering and commissioning artists.
 - Building, designing, and dissecting random things - physical and virtual.
