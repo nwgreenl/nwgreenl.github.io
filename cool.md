@@ -19,8 +19,9 @@
 - [Hardest 1-1 Remake Ever](https://www.youtube.com/watch?v=LcsGZqiwB1k) <small>*shoutout to lilkirbs*</small>
 - [BA Gourmet Bakes](https://www.youtube.com/playlist?list=PLKtIunYVkv_RwB_yx1SZrZC-ddhxyXanh)
 - [Binging with Babish](https://www.youtube.com/user/bgfilms)
+- [VFX Artists React](https://www.youtube.com/playlist?list=PLwVUbPpIRn1QspuvMVVfQvO7RPWnMJ1aA)
 - [Matthew Chaim - Sunflowers (Animated Lyric Video)](https://www.youtube.com/watch?v=5e-Awb0DhUk)
-- [I rotoscoped the entire Chika dance](https://www.youtube.com/watch?v=gVtuD_6xSrM)
+- [I rotoscoped the entire chika dance](https://www.youtube.com/watch?v=gVtuD_6xSrM)
 - [Fairy Tail - Main Theme (Launchpad Cover)](https://www.youtube.com/watch?v=zsOrvNYEgA8)
 
 ### Cats 🐱

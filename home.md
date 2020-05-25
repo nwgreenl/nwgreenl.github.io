@@ -10,6 +10,6 @@ app.get('/', (req, res) => {
 
 I *totally* wasn't just asleep... 
 
-Anyways, my name's Nick Greenlees, welcome to my personal site, the RESTing dev... (get it?)
+...Anyways, welcome to my personal site! My name is Nick Greenlees, aka the RESTing dev... <small>(get it?)</small>
 
-Please feel free to look around, enjoy your stay, and maybe shoot me an [email](contact) if you'd like!
+Please feel free to look around, enjoy your stay, and maybe even shoot me an [email](contact) if you'd like!
