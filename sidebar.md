@@ -1,4 +1,3 @@
-- [Home](/)
 - [About](about)
 - [Dev](dev)
 - [Cool](cool)

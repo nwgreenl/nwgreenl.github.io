@@ -4,6 +4,7 @@ window.$docsify = {
 	logo        : './media/me.png',
 	themeColor	: '#fff',
 	homepage    : 'home.md',
+	loadNavbar	: 'navbar.md',
 	loadSidebar : 'sidebar.md',
 	notFoundPage: '404.md',
 	auto2top    : true,

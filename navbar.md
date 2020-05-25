@@ -1,1 +1,1 @@
-- [Contact](/contact.md)
+- [Home](/home)

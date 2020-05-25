@@ -12,8 +12,8 @@ nick.loves = {
 }
 nick.former = ['speedrunner', 'speedcuber', 'audiophile']
 nick.current = ['husband', 'analytics implementation engineer', 'comfy']
-nick.aspirations = ['Product Management', 'bug bounty hunting', 'globetrotting']
-nick.status = 'Probably RESTing'
+nick.aspirations = ['product management', 'bug bounty hunting', 'globetrotting']
+nick.status = 'probably RESTing'
 ```
 
 ---
@@ -45,6 +45,6 @@ nick.status = 'Probably RESTing'
 
 ### Resting Dev
 
-I work with docs sites so often, I thought it would be a fun project to turn my personal site into a one, so here we are!
+I work with docs sites so often, I thought it would be a fun project to turn my personal site into one, so here we are!
 
 <small>Made with :heart: using [docsify](https://docsify.js.org/)</small>
