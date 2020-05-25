@@ -3,6 +3,7 @@ window.$docsify = {
 	repo        : 'nwgreenl/nwgreenl.github.io',
 	logo        : './media/me.png',
 	themeColor	: '#fff',
+	routerMode	: 'history',
 	homepage    : 'home.md',
 	loadNavbar	: 'navbar.md',
 	loadSidebar : 'sidebar.md',
