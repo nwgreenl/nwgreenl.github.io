@@ -1,6 +1,6 @@
 # Dev Things
 
-Where I'm at, where I'm trying to improve, and where I want to eventually be.
+*Where I'm at, where I'm trying to improve, and where I want to eventually be.*
 
 ---
 

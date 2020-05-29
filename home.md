@@ -2,7 +2,7 @@
 
 ```javascript
 app.get('/', (req, res) => {
-  res.status(200).send(dev)
+  res.status(200).send(resting.dev)
 })
 ```
 

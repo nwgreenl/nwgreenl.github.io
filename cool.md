@@ -1,6 +1,6 @@
 # Things I found cool and/or helpful
 
-...maybe you will too 🎉
+*...maybe you will too 🎉*
 
 ---
 

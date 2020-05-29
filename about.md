@@ -3,7 +3,7 @@
 ```javascript
 const nick = new Adult()
 
-nick.name = 'nick greenlees'
+nick.fullName = 'nick greenlees'
 nick.age = 22
 nick.pronouns = 'he/him'
 nick.loves = {
@@ -13,7 +13,7 @@ nick.loves = {
 nick.former = ['speedrunner', 'speedcuber', 'audiophile']
 nick.current = ['husband', 'analytics implementation engineer', 'comfy']
 nick.aspirations = ['product management', 'bug bounty hunting', 'globetrotting']
-nick.status = 'probably RESTing'
+nick.status = 500 // probably resting...
 ```
 
 ---
@@ -24,12 +24,12 @@ nick.status = 'probably RESTing'
 
 #### **Personal**
 
-- 한국어를 배워고있서요.
+- 한국어를 배워고있어요.
 - Hiking and long walks around the park with [cutey](https://sohyun.kim).
 - Discovering and commissioning artists.
 - Building, designing, and dissecting random things - physical and virtual.
 - Watching and creating on YouTube & Twitch.
-- RESTing ㅅㅇㅅ
+- resting ㅅㅇㅅ
 
 #### **Professional**
 
@@ -43,7 +43,7 @@ nick.status = 'probably RESTing'
 
 ---
 
-### Resting Dev
+### resting.dev
 
 I work with docs sites so often, I thought it would be a fun project to turn my personal site into one, so here we are!
 
