@@ -16,8 +16,6 @@ I love working with web technologies, so that's where almost all my current expe
 
 Outside of web dev, I also *love* reading through, updating, and writing docs, which is why this site is modelled after one!
 
-I am very particular about docs though, and could go on and on about my preferences... but luckily, at my day job, I'm able to have my say in my org's docs guidelines and can scratch that itch as often as I'd like~
-
 > - Markdown, YAML, JSON, XML
 > - Layouts, Diagramming, Technical Translation, Practical/Trivial Code Examples
 
