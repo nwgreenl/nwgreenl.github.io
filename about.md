@@ -4,7 +4,7 @@
 const nick = new Adult()
 
 nick.fullName = 'nick greenlees'
-nick.age = 22
+nick.age = 23
 nick.pronouns = 'he/him'
 nick.loves = {
 	'cat': 'mocha',

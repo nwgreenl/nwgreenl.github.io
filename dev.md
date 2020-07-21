@@ -6,12 +6,13 @@
 
 ### Current
 
-I love working with web technologies, so that's where almost all my current experience and knowledge lies. This doesn't mean I'm an expert by any means, just that I feel comfortable with them!
+I love working with web technologies, so that's where almost all my current experience and knowledge lies.
 
 > - HTML, CSS, SASS, Bootstrap, Material 
 > - JS, Node, Express, React/Redux
 > - PostgreSQL, T-SQL, MySQL, MongoDB
 > - Mocha, Chai, Sinon
+> - Python, Pandas, NumPy
 
 Outside of web dev, I also *love* reading through, updating, and writing docs, which is why this site is modelled after one!
 
