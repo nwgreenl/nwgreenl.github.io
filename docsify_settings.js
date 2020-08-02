@@ -10,7 +10,7 @@ window.$docsify = {
 	auto2top: true,
 	maxLevel: 3,
 	subMaxLevel: 3,
-	ga:"UA-158858778-3",
+	ga: "UA-158858778-3",
 	tabs: {
 		persist	: false
 	},
