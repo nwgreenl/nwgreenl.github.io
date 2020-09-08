@@ -11,8 +11,8 @@ nick.loves = {
 	'cutey': 'sohyun',
 }
 nick.former = ['speedrunner', 'speedcuber', 'audiophile']
-nick.current = ['technical generalist', '9-5 dev', 'husband']
-nick.aspirations = ['product management', 'bug bounty hunting', 'globetrotting']
+nick.current = ['technical generalist', '9-5 at pluralsight', 'husband']
+nick.aspirations = ['software engineer', 'bug bounty hunting', 'globetrotting']
 nick.status = 500 // probably resting...
 ```
 

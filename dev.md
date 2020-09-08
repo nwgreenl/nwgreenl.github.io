@@ -9,10 +9,9 @@
 I love working with web technologies & manipulating/interacting with data, so that's where the majority of my current experience and knowledge lies.
 
 > - HTML, CSS, SASS/LESS, Bootstrap/Material 
-> - JS, Node, Express, React/Redux
-> - Mocha, Chai, Sinon
+> - JS, Node, Express, React/Redux/Saga
 > - Python, Pandas, NumPy
-> - PostgreSQL, T-SQL, MySQL, Snowflake, MongoDB
+> - PostgreSQL, T-SQL, MySQL, MongoDB
 
 Outside of web dev, I also *love* reading through, updating, and writing docs, which is why this site is modelled after one!
 
@@ -34,6 +33,3 @@ I am currently learning `go`, expanding my `python` knowledge, and finally picki
 ### The Future
 
 I would love to learn `C++` as I have a pipe dream of developing my own game some day... but no concrete plans as of yet.
-
-I love dev work, but since working in tech I've gravitated towards Product Management, so I'm currently working towards that~
-
