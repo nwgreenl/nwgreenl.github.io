@@ -22,7 +22,7 @@ Outside of these, I also enjoy reading through, updating, and writing docs, whic
 
 ### In Progress
 
-I am currently expanding my `python` knowledge, learning some new frontend stuff (e.g `typescript` and `react-query`), and finally picking up GraphQL.
+I am currently expanding my `python` knowledge, learning some new frontend stuff (e.g `typescript` and `react-query`), and finally picking up `GraphQL`.
 
 > - Not having much experience in statically typed languages (other than some Java and Go), I'm currently working on transitioning my mindset to "think in types" with typescript! I'm also learning some other cool things, like [react-query](https://react-query.tanstack.com/)
 > - I've learned to love a lot of things about go, but my original reason for learning it was as a replacement for node and as an intro into C syntax and statically typed programming in general.
