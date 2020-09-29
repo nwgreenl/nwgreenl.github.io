@@ -1,19 +1,19 @@
 # All About Me!
 
 ```javascript
-const nick = new Adult()
+const nick = new Adult();
 
-nick.fullName = 'nick greenlees'
-nick.age = 23
-nick.pronouns = 'he/him'
+nick.fullName = 'nick greenlees';
+nick.age = 23;
+nick.pronouns = 'he/him';
 nick.loves = {
-	'cat': 'mocha',
-	'cutey': 'sohyun',
-}
-nick.former = ['speedrunner', 'speedcuber', 'audiophile']
-nick.current = ['technical generalist', '9-5 at pluralsight', 'husband']
-nick.aspirations = ['software engineer', 'bug bounty hunting', 'globetrotting']
-nick.status = 500 // probably resting...
+  cat: 'mocha',
+  cutey: 'sohyun',
+};
+nick.former = ['speedrunner', 'speedcuber', 'audiophile'];
+nick.current = ['jr. software engineer @ pluralsight', '한국어 학생', 'husband and 😺 dad'];
+nick.aspiresToBe = ['faang software engineer', 'bug bounty hunter', 'globetrotter'];
+nick.status = 500; // probably resting...
 ```
 
 ---
