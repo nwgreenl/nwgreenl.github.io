@@ -1,5 +1,6 @@
 - [About](about)
 - [Dev](dev)
+- [Analytics](analytics)
 - [Cool](cool)
 - **Links**
 - [![linkedin-icon](https://icongr.am/feather/linkedin.svg?color=ffffff&size=16)LinkedIn](https://www.linkedin.com/in/nickgreenlees/)
