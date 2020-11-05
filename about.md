@@ -45,6 +45,13 @@ nick.status = 500; // probably resting...
 
 ---
 
+### Random (But Fun) Projects
+
+- [Kitty Go Brrr](http://kitty-go-brrr.surge.sh/)
+- [Video Live Streaming Whiteboard Project](https://youtu.be/N0hVVZlvA5s)
+
+---
+
 ### resting.dev
 
 Since I enjoy creating and working with docs sites, I thought it would be a fun project to turn my personal site into one... so here we are!
