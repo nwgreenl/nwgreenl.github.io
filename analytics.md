@@ -10,8 +10,8 @@ I love gathering, analyzing, visualizing, and ultimately telling stories with da
 qualitative. I've been fortnuate enough to work with various product teams to support data-driven decisions and ensure the right projects are being prioritized.
 
 > - SQL, ❄️
+> - Python, Pandas, NumPy
 > - Sheets, Sheets Query, Pivot Tables, Apps Script
-> - Pandas, NumPy
 > - Discovery & Validation Research
 
 ---
@@ -28,4 +28,4 @@ I am currently expanding my initial role's responsibilities to ensure that my SQ
 
 ### The Future
 
-I would love to learn `R` at some point as I've seen the powerful things other's can do with it and seems super cool! I also wouldn't mind dwelving more into `Hive` or `Spark`.
+I would love to learn `R` at some point as I've seen the powerful things other's can do with it and seems super cool! I also wouldn't mind dwelving more into `Hive` and/or `Spark`.

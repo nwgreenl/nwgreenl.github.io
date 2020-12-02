@@ -12,7 +12,7 @@ nick.loves = {
 };
 nick.former = ['speedrunner', 'speedcuber', 'audiophile'];
 nick.current = ['software engineer @ pluralsight', '한국어 학생', 'husband and 😺 dad'];
-nick.aspiresToBe = ['product manager / sr. engineer', 'bug bounty hunter', 'globetrotter'];
+nick.aspiresToBe = ['product manager or analytics engineer', 'bug bounty hunter', 'globetrotter'];
 nick.status = 500; // probably resting...
 ```
 
