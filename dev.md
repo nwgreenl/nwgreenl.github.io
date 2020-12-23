@@ -10,7 +10,7 @@ I love working with web technologies & manipulating/interacting with data, so th
 
 > - HTML, CSS, JavaScript
 > - Node, TypeScript, Express
-> - React, Redux, Saga
+> - React, Redux, Redux-Sagas
 > - Material UI, SCSS, Styled Components (css-in-js)
 > - Python, FastAPI, Flask
 > - T/My/Postgre SQL, MongoDB

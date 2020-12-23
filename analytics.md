@@ -12,6 +12,7 @@ qualitative. I've been fortnuate enough to work with various product teams to su
 > - SQL, ❄️
 > - Python, Pandas, NumPy
 > - Sheets, Sheets Query, Pivot Tables, Apps Script
+> - Tableau, Data Studio
 > - Discovery & Validation Research
 
 ---
