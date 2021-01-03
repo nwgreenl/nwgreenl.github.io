@@ -7,12 +7,12 @@ nick.fullName = 'nick greenlees';
 nick.age = 23;
 nick.pronouns = 'he/him';
 nick.loves = {
-  cat: 'mocha',
+  cats: ['mocha', 'minnie', 'moxie'],
   cutey: 'sohyun',
 };
 nick.former = ['speedrunner', 'speedcuber', 'audiophile'];
 nick.current = ['software developer @ pluralsight', '한국어 학생', 'husband and 😺 dad'];
-nick.aspiresToBe = ['engineering or product manager', 'bug bounty hunter', 'globetrotter'];
+nick.aspiresToBe = ['product or program manager', 'bug bounty hunter', 'globetrotter'];
 nick.status = 500; // probably resting...
 ```
 
