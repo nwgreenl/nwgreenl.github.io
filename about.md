@@ -11,8 +11,16 @@ nick.loves = {
   cutey: 'sohyun',
 };
 nick.former = ['speedrunner', 'speedcuber', 'audiophile'];
-nick.current = ['software developer @ pluralsight', '한국어 학생', 'husband and 😺 dad'];
-nick.aspiresToBe = ['product or program manager', 'bug bounty hunter', 'globetrotter'];
+nick.current = [
+  'software engineer @ lever.co',
+  '한국어 학생',
+  'husband and 😺 dad',
+];
+nick.aspiresToBe = [
+  'product or program manager',
+  'bug bounty hunter',
+  'globetrotter',
+];
 nick.status = 500; // probably resting...
 ```
 
