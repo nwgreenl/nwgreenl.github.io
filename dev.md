@@ -24,10 +24,10 @@ Outside of these, I also enjoy reading through, updating, and writing docs, whic
 
 ### In Progress
 
-I am currently learning `Go` and finally picking up `GraphQL`.
+I am currently learning `Go` and `Swift`.
 
 > - I've learned to love a lot of things about go, but my original reason for learning it was as a replacement for node and an intro to C syntax and statically typed programming in general.
-> - GraphQL is one of those things I've always heard about but never used, but hey, better late than never!
+> - I've always wanted to learn how to make apps and Swift's syntax seemed more enjoyable to me than Kotlin or Java (sorry android devs!)
 
 ---
 

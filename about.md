@@ -51,12 +51,6 @@ nick.status = 500; // probably resting...
 
 <!-- tabs:end -->
 
----
-
-### Random (But Fun) Projects
-
-- [Kitty Go Brrr](http://kitty-go-brrr.surge.sh/)
-- [Video Live Streaming Whiteboard Project](https://youtu.be/N0hVVZlvA5s)
 
 ---
 

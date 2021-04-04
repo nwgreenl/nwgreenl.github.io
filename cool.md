@@ -25,10 +25,10 @@ _...maybe you will too 🎉_
 - [Matthew Chaim - Sunflowers (Animated Lyric Video)](https://www.youtube.com/watch?v=5e-Awb0DhUk)
 - [I rotoscoped the entire chika dance](https://www.youtube.com/watch?v=gVtuD_6xSrM)
 - [Fairy Tail - Main Theme (Launchpad Cover)](https://www.youtube.com/watch?v=zsOrvNYEgA8)
-- [Video Live Streaming Whiteboard Project (By Me)](https://youtu.be/N0hVVZlvA5s)
 
 ### Cats 🐱
 
+- [Kitty Go Brrr](http://kitty-go-brrr.surge.sh/)
 - [He](https://www.youtube.com/watch?v=X8avbciUP3c)
 - [Suri & Noel](https://www.youtube.com/user/JungwooPark79)
 - [CreamHeroes Cats](https://www.youtube.com/channel/UCmLiSrat4HW2k07ahKEJo4w)
