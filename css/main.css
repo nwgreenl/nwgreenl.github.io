@@ -30,6 +30,22 @@ p:first-of-type {
 	margin: 0;
 }
 
+.sidebar-nav a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.sidebar-nav li.active>a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.sidebar-nav li>a[href^="#/"]:not([href*="?id="]):not(:only-child) {
+  color: white;
+  font-weight: 500;
+}
+
 .sidebar img[alt=the-resting-dev] {
 	width: 125px;
 	height: 125px;
