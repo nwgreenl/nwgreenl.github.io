@@ -13,5 +13,5 @@ window.$docsify = {
   ga: "UA-158858778-3",
   tabs: {
     persist	: false
-  },
+  }
 }

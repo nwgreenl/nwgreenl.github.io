@@ -50,12 +50,3 @@ nick.status = 500; // probably resting...
 - resting ㅅㅇㅅ
 
 <!-- tabs:end -->
-
-
----
-
-### resting.dev
-
-Since I enjoy creating and working with docs sites, I thought it would be a fun project to turn my personal site into one... so here we are!
-
-<small>Made with :heart: using [docsify](https://docsify.js.org/)</small>
