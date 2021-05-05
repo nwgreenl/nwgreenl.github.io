@@ -30,6 +30,15 @@ nick.status = 500; // probably resting...
 
 <!-- tabs:start -->
 
+#### **Personal**
+
+- 난 한국어를 배워 고 있어요 ~
+- Hiking and long walks around the park with [cutey](https://sohyun.kim).
+- Discovering and commissioning artists.
+- Building, designing, and dissecting random things - physical and virtual.
+- Watching and creating on YouTube & Twitch.
+- resting ㅅㅇㅅ
+
 #### **Professional**
 
 - Collaborating, mentoring, and learning with a great team.
@@ -39,14 +48,5 @@ nick.status = 500; // probably resting...
 - Working both collaboratively and independently
 - Creating and participating fun slack channels, especially one's involving animals or games~
 - Reading through medium articles, stack overflow, repos, docs, reddit, and more...
-
-#### **Personal**
-
-- 난 한국어를 배워 고 있어요 ~
-- Hiking and long walks around the park with [cutey](https://sohyun.kim).
-- Discovering and commissioning artists.
-- Building, designing, and dissecting random things - physical and virtual.
-- Watching and creating on YouTube & Twitch.
-- resting ㅅㅇㅅ
 
 <!-- tabs:end -->
