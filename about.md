@@ -42,7 +42,7 @@ nick.status = 500; // probably resting...
 
 #### **Personal**
 
-- 한국어를 배워고있어요.
+- 난 한국어를 배워 고 있어요 ~
 - Hiking and long walks around the park with [cutey](https://sohyun.kim).
 - Discovering and commissioning artists.
 - Building, designing, and dissecting random things - physical and virtual.
