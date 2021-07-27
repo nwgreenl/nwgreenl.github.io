@@ -17,15 +17,6 @@ _...maybe you will too 🎉_
 - [Curated PM List](https://github.com/ProductHired/open-product-management)
 - [JS Questions](https://github.com/lydiahallie/javascript-questions)
 
-### Videos 📹🎮
-
-- [Hardest 1-1 Remake Ever](https://www.youtube.com/watch?v=LcsGZqiwB1k) <small>_shoutout to lilkirbs_</small>
-- [Binging with Babish](https://www.youtube.com/user/bgfilms)
-- [VFX Artists React](https://www.youtube.com/playlist?list=PLwVUbPpIRn1QspuvMVVfQvO7RPWnMJ1aA)
-- [Matthew Chaim - Sunflowers (Animated Lyric Video)](https://www.youtube.com/watch?v=5e-Awb0DhUk)
-- [I rotoscoped the entire chika dance](https://www.youtube.com/watch?v=gVtuD_6xSrM)
-- [Fairy Tail - Main Theme (Launchpad Cover)](https://www.youtube.com/watch?v=zsOrvNYEgA8)
-
 ### Cats 🐱
 
 - [Kitty Go Brrr](http://kitty-go-brrr.surge.sh/)
@@ -39,3 +30,11 @@ _...maybe you will too 🎉_
 - [Cutey](https://sohyun.kim)
 - [Siiteiebahiro](http://www.pixiv.net/member.php?id=1709153)
 - [Redjuice](https://www.artstation.com/redjuice)
+
+### Misc ❓
+
+- [Hardest 1-1 Remake Ever](https://www.youtube.com/watch?v=LcsGZqiwB1k) <small>_shoutout to lilkirbs_</small>
+- [Games Done Quick](https://www.youtube.com/user/gamesdonequick)
+- [Matthew Chaim - Sunflowers (Animated Lyric Video)](https://www.youtube.com/watch?v=5e-Awb0DhUk)
+- [I rotoscoped the entire chika dance](https://www.youtube.com/watch?v=gVtuD_6xSrM)
+- [Fairy Tail - Main Theme (Launchpad Cover)](https://www.youtube.com/watch?v=zsOrvNYEgA8)

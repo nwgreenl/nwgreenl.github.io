@@ -1,36 +1,27 @@
 # Dev Things
 
-_Where I'm at, where I'm trying to improve, and where I want to eventually be._
+_Where I'm at and where I'm trying to improve._
 
 ---
 
 ### Current
 
-I love working with web technologies & manipulating/interacting with data, so that's where the majority of my current experience and knowledge lies.
+I love working across various web and data tech stacks and am currently using some pretty neat ones at [work](https://lever.co).
 
-> - HTML, CSS, JavaScript
-> - Node, TypeScript, Express
-> - React, Redux, Redux-Sagas
-> - Material UI, SCSS, Styled Components (css-in-js)
-> - Python, FastAPI, Flask
-> - T/My/Postgre SQL, MongoDB
-
-Outside of these, I also enjoy reading through, updating, and writing docs, which is why this site is modeled after one!
-
-> - Markdown, YAML, JSON, XML
-> - Layouts, Diagramming, Technical Translation, Practical/Trivial Code Examples
+> - TypeScript
+> - DerbyJS
+> - ShareDB (OT)
+> - MongoDB
+> - PostgreSQL
+> - Snowflake
+> - Kafka
 
 ---
 
 ### In Progress
 
-I am currently learning `Go` and `Swift`.
+I'm currently trying to decide the next language I want to get super deep into. They are all a little different, so the list might seem kind of strange 😅
 
-> - I've learned to love a lot of things about go, but my original reason for learning it was as a replacement for node and an intro to C syntax and statically typed programming in general.
-> - I've always wanted to learn how to make apps and Swift's syntax seemed more enjoyable to me than Kotlin or Java (sorry android devs!)
-
----
-
-### The Future
-
-I would love to learn `C++` as I have a pipe dream of developing my own game some day... but no concrete plans as of yet.
+> - Go
+> - Rust
+> - Kotlin
