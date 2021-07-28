@@ -1,5 +1,7 @@
 # All About Me!
 
+---
+
 ```javascript
 const nick = new Adult({
   fullName: 'nick greenlees',

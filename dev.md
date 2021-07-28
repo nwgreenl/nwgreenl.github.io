@@ -6,10 +6,11 @@ _Where I'm at and where I'm trying to improve._
 
 ### Current
 
-I love working across various web and data tech stacks and am currently using some pretty neat ones at [work](https://lever.co).
+I love working across various web and data tech stacks and am _currently_ using the following at [work](https://fulcrum.lever.co/), which are all pretty neat.
 
-> - TypeScript
+> - Node w/ TypeScript
 > - DerbyJS
+> - Express
 > - ShareDB (OT)
 > - MongoDB
 > - PostgreSQL
