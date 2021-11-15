@@ -6,6 +6,11 @@ _...maybe you will too 🎉_
 
 ### Articles 📰
 
+**By Me**
+
+- [Analytics and Arepas](https://fulcrum.lever.co/analytics-and-arepas-1373852ab14f)
+
+**By Others**
 - [McDonald's Theory](https://medium.com/@jonbell/mcdonalds-theory-9216e1c9da7d)
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [Design Better Forms](https://medium.com/nextux/design-better-forms-96fadca0f49c)
