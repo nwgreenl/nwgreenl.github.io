@@ -13,7 +13,7 @@ const nick = new Adult({
   },
   former: ['speedrunner', 'speedcuber', 'data collector'],
   current: [
-    'software engineer @ lever.co',
+    'software engineer @ shopify',
     '한국어 학생',
     'collector',
   ],
