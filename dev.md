@@ -18,14 +18,12 @@ I love working across various web and data tech stacks and am _currently_ using 
 
 ### Past
 
-Below are some of the technologies that I'm not currently using, but have used in the past =)
+Below are some of the technologies that I'm not currently using at work, but have used in the past =)
 
-> - Node w/ TypeScript
-> - DerbyJS
-> - Express
+> - Node.js w/ TypeScript
 > - Python
-> - Flask
-> - ShareDB (OT)
+> - NumPy + Pandas
+> - Various backend frameworks (Express.js, FastAPI, Flask, etc.)
 > - MongoDB
 > - PostgreSQL
 > - Snowflake
