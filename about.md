@@ -5,7 +5,7 @@
 ```javascript
 const nick = new Adult({
   fullName: 'nick greenlees',
-  age: 24,
+  age: 25,
   pronouns: 'he/him',
   loves: {
     cats: ['mocha', 'minnie', 'moxie'],
