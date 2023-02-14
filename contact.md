@@ -1,5 +1,5 @@
-# Hello World!
+# Hello World
 
-Feel free to hit me up for work related things, questions/concerns, or if you just want to chat~
+You are welcome to email me~
 
-[the@resting.dev](mailto:the@resting.dev) &nbsp; _or via_ &nbsp; [linkedin](https://www.linkedin.com/in/nickgreenlees/)
+My email is the word "the" followed by the hostname of this site 👍
