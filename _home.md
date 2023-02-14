@@ -6,14 +6,12 @@ app.get('/', (req, res) => {
 });
 ```
 
-**_...Oh_**, hi there! :wave:
+**_...Oh_**, hey there :wave:
 
-I _totally_ wasn't just asleep...
+I _totally_ wasn't just resting.
 
-...Anyways, welcome to my personal site! My name is Nick Greenlees, aka the RESTing dev... <small>(get it?)</small>
+Anyways, welcome to my humble abode on the world wide web.
 
-Please feel free to look around, enjoy your stay, and maybe even shoot me an [email](contact) if you'd like!
+My name is Nick Greenlees, aka the RESTing dev... <small>(get it?)</small>
 
----
-
-<small>_Made with :heart: using [docsify](https://docsify.js.org/)_</small>
+Please feel free to look around, enjoy your stay, and maybe even send me an [email](contact) if you'd like.
