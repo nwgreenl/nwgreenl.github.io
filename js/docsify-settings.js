@@ -12,6 +12,6 @@ window.$docsify = {
   subMaxLevel: 3,
   ga: "UA-158858778-3",
   tabs: {
-    persist	: false
+    persist: false
   }
 }

@@ -17,7 +17,7 @@ p:first-of-type {
 	margin-block-start: 0;
 }
 
-.markdown-section blockquote ul{
+.markdown-section blockquote ul {
 	margin: 0;
 }
 
@@ -31,36 +31,39 @@ p:first-of-type {
 }
 
 .sidebar-nav a:hover {
-  color: white;
-  text-decoration: none;
+	color: white;
+	text-decoration: none;
 }
 
 .sidebar-nav li.active>a {
-  color: white;
-  font-weight: bold;
-  text-decoration: none;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
 }
 
 .sidebar-nav li>a[href^="#/"]:not([href*="?id="]):not(:only-child) {
-  color: white;
-  font-weight: 500;
+	color: white;
+	font-weight: 500;
 }
 
 .sidebar img[alt=the-resting-dev] {
 	width: 125px;
 	height: 125px;
 	-webkit-transition: -webkit-transform .8s ease-in-out;
-		transition: transform .8s ease-in-out;
+	transition: transform .8s ease-in-out;
 }
+
 .sidebar img[alt=the-resting-dev]:hover {
 	-webkit-transform: rotate(360deg);
-		transform: rotate(360deg);
+	transform: rotate(360deg);
 }
+
 .github-corner:hover .octo-arm {
 	animation: octocat-wave 560ms ease-in-out
 }
 
 @keyframes octocat-wave {
+
 	0%,
 	100% {
 		transform: rotate(0)
