@@ -1,6 +1,6 @@
-# Things I found cool and/or helpful
+# Random things that I found cool
 
-_...maybe you will too 🎉_
+_Maybe you will too 🎉_
 
 ---
 
@@ -32,7 +32,7 @@ _...maybe you will too 🎉_
 
 ### Art 🎨
 
-- [Cutey](https://sohyun.kim)
+- [Wifey](https://sohyun.kim)
 - [Siiteiebahiro](http://www.pixiv.net/member.php?id=1709153)
 - [Redjuice](https://www.artstation.com/redjuice)
 

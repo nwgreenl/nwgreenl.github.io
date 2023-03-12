@@ -1,6 +1,6 @@
 # Dev Things
 
-_What I'm up to professionally and recreationally._
+_What I'm up to professionally and recreationally_
 
 ---
 
