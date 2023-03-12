@@ -8,10 +8,8 @@ app.get('/', (req, res) => {
 
 **_...Oh_**, hey there :wave:
 
-I _totally_ wasn't just resting.
+I _totally_ wasn't just RESTing... <small>(get it?)</small>
 
-Anyways, welcome to my humble abode on the world wide web.
+Anyways, my name is Nick Greenlees, welcome to my humble abode on the world wide web.
 
-My name is Nick Greenlees, aka the RESTing dev... <small>(get it?)</small>
-
-Please feel free to look around, enjoy your stay, and maybe even send me an [email](contact) if you'd like.
+There's not much here, but feel free to look around and enjoy your stay. You can even send me an [email](contact) if you'd like.
