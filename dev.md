@@ -15,6 +15,7 @@ I love learning and working across various web and data tech stacks, and am _cur
 > - Go
 > - GraphQL
 > - MySQL
+> - Elasticsearch
 > - Kafka
 > - GCP
 
@@ -22,4 +23,9 @@ I love learning and working across various web and data tech stacks, and am _cur
 
 ### Recreationally
 
-I'm currently playing around with [Rust](https://www.rust-lang.org/) and [WebRTC](https://webrtcforthecurious.com/) things, which has been pretty fun 😎
+I'm currently playing around with the following, all of which have been pretty fun 😎
+
+- [Rust](https://www.rust-lang.org/)
+- [WASM](https://rustwasm.github.io/book/what-is-webassembly.html)
+- [Elixir](https://elixir-lang.org/) and [Phoenix](https://www.phoenixframework.org/)
+- [WebRTC](https://webrtcforthecurious.com/)
