@@ -4,11 +4,11 @@ _What I'm up to professionally and recreationally_
 
 ---
 
-Currently, my main interests are solving problems within the real-time communications and developer experience spaces ✌️
+Currently looking to solve technical challenges in interesting problem spaces ✌️
 
 ### Professionally
 
-I love learning and working across various web and data tech stacks, and am _currently_ using the following at [work](https://www.shopify.com/careers), which are all pretty neat 🙌
+I love learning and working across various web and data tech stacks, and _was_ using the following at [my last job](https://www.shopify.com/careers), which are all pretty neat 🙌
 
 > - Ruby on Rails
 > - React w/ TypeScript
