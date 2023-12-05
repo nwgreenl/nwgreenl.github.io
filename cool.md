@@ -1,6 +1,6 @@
-# Random things that I found cool
+# Cool Things
 
-_Maybe you will too 🎉_
+_Random collection of things that I found cool, maybe you will too 🎉_
 
 ---
 
