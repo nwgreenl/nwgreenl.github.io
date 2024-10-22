@@ -1,9 +1,9 @@
 # 🖥️ 😴...
 
-```javascript
-app.get('/', (req, res) => {
-  res.status(200).send(resting.dev);
-});
+```python
+@app.route("/")
+def resting_dev():
+    return "😴", 503
 ```
 
 **_...Oh_**, hey there :wave:
