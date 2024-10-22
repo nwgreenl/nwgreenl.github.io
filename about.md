@@ -7,7 +7,7 @@ _It's-a-me_
 ```javascript
 const nick = new Human({
   name: 'nick greenlees',
-  age: 26,
+  age: 27,
   pronouns: 'he/him/his',
   interests: [
     "building, designing, and dissecting random things - physical and virtual",
@@ -21,6 +21,6 @@ const nick = new Human({
     '한국어 학생',
     'collector',
   ],
-  status: 500, // probably resting...
+  status: 503, // probably resting...
 }),
 ```
