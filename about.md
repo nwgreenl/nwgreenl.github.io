@@ -5,7 +5,7 @@ _It's-a-me_
 ---
 
 ```javascript
-const nick = new Human({
+const nick = new Person({
   name: 'nick greenlees',
   age: 27,
   pronouns: 'he/him/his',
