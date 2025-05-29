@@ -17,7 +17,7 @@ const nick = new Human({
     "resting ㅅㅇㅅ",
   ],
   currently: [
-    'senior software engineer @ samsara',
+    'engineering operations @ netflix',
     '한국어 학생',
     'collector',
   ],
