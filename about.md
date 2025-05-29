@@ -10,7 +10,7 @@ const nick = new Person({
   age: 27,
   pronouns: "he/him/his",
   interests: [
-    "building, designing, and dissecting random things - physical and virtual",
+    "building, designing, and dissecting random things -- physical and virtual",
     "learning and utilizing new programming languages, libraries, frameworks, etc.",
     "playing games",
     "watching youtube, anime, and twitch",
