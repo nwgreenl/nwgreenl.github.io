@@ -15,5 +15,5 @@ Additionally, here are some sites I've made 🌐
 
 - [typehere.lol](https://typehere.lol) ([source](https://github.com/nwgreenl/typehere.lol))
   - A simple preact app for typing and storing whatever you'd like (via local storage).
-- [rgbtogether.com](https://rgbtogether.com) ([source](https://github.com/nwgreenl/rgbtogether))
-  - A simple site that synchronizes background color updates every even second based on epoch.
+- [fwd.moe](https://fwd.moe) ([source](https://github.com/nwgreenl/fwd.moe))
+  - A simple preact app for path-based forwards/redirects.
