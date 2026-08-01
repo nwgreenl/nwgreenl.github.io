@@ -1,1 +1,1 @@
-- [Home](_home)
+- [Home](home)
