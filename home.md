@@ -13,8 +13,7 @@ const nick = new Person({
     "building, designing, and dissecting random things -- physical and virtual",
     "learning and utilizing new programming languages, libraries, frameworks, etc.",
     "playing games",
-    "watching youtube, anime, and twitch",
-    "resting",
+    "watching youtube, anime, tv shows, and movies",
   ],
   currently: ["engineering operations @ netflix", "한국어 학생", "collector"],
   status: 503, // probably resting...
