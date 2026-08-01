@@ -5,7 +5,6 @@ window.$docsify = {
   themeColor: "#fff",
   homepage: "home.md",
   notFoundPage: "404.md",
-  loadNavbar: true,
   loadSidebar: true,
   auto2top: true,
   maxLevel: 3,
