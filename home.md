@@ -4,7 +4,7 @@
 
 Hello~ my name is Nick Greenlees. Welcome to my humble abode on the world wide web.
 
-There's not much here, but feel free to look around and enjoy your stay. You can even send me an email if you'd like, at the word "hoi" @ this domain (<small>hi in dutch</small>).
+There's not much here, but feel free to look around and enjoy your stay. You can even send me an email if you'd like, at the word "hoi" @ this domain <small>(hi in dutch)</small>.
 
 ```javascript
 const nick = new Person({
