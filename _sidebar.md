@@ -1,3 +1,3 @@
 - **Links**
-- [![github-icon](https://icongr.am/simple/github.svg?color=ffffff&size=16)Github](https://github.com/nwgreenl/)
-- [![linkedin-icon](https://icongr.am/feather/linkedin.svg?color=ffffff&size=16)LinkedIn](https://www.linkedin.com/in/nickgreenlees/)
+- <a href="https:/github.com/nwgreenl" target="_blank"><img src="https://thesvg.org/icons/github/dark.svg" width="16" height="16" />GitHub</a>
+- <a href="https://www.linkedin.com/in/nickgreenlees" target="_blank"><img src="https://thesvg.org/icons/linkedin/default.svg" width="16" height="16" />LinkedIn</a>
